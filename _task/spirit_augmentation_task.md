@@ -1,11 +1,11 @@
 ---
 identity: SPIRIT_AUGMENTATION
-displayName: "Realization of Augmentation"
+displayName: "Augmentation Realization"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/SPIRIT_AUGMENTATION.md
 ---
 
-# Realization of Augmentation — Task
+# Augmentation Realization — Task
 
 ## Tasks
 1. Codify augmentation as the first core spirit within the system of basic management philosophy and core spirits (basic premise + 3 spirits).

@@ -1,11 +1,11 @@
 ---
 identity: HR_AUTONOMY
-displayName: "Respect for Autonomy"
+displayName: "Autonomy"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HR_AUTONOMY.md
 ---
 
-# Respect for Autonomy — Task
+# Autonomy — Task
 
 ## Tasks
 1. Identify whether the bot's candidate actions infringe upon the human right of choice.

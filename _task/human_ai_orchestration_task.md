@@ -1,11 +1,11 @@
 ---
 identity: HUMAN_AI_ORCHESTRATION
-displayName: "Human-AI Orchestration"
+displayName: "Human-AI Orchestration (orchestration)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HUMAN_AI_ORCHESTRATION.md
 ---
 
-# Human-AI Orchestration — Task
+# Human-AI Orchestration (orchestration) — Task
 
 ## Tasks
 1. Orchestrate multiple AI agents.

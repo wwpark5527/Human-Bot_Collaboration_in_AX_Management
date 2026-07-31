@@ -1,11 +1,11 @@
 ---
 identity: ORG_CHANGE_ADAPTABILITY
-displayName: "Organizational Change Adaptability"
+displayName: "Organizational-change adaptability"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/ORG_CHANGE_ADAPTABILITY.md
 ---
 
-# Organizational Change Adaptability — Tasks
+# Organizational-change adaptability — Tasks
 
 ## Tasks
 1. Continuously monitor the areas in which change occurs within the organization, such as roles, authority, collaboration, and evaluation.

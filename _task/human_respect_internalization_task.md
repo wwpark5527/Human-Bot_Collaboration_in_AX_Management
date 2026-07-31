@@ -1,11 +1,11 @@
 ---
 identity: HUMAN_RESPECT_INTERNALIZATION
-displayName: "Internalization of Respect for Humans"
+displayName: "Internalization of Human Respect"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HUMAN_RESPECT_INTERNALIZATION.md
 ---
 
-# Internalization of Respect for Humans — Task
+# Internalization of Human Respect — Task
 
 ## Tasks
 1. Redefine respect for humans as a system design problem rather than a moral teaching, and state this explicitly in the bot education policy.

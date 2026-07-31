@@ -1,11 +1,11 @@
 ---
 identity: HBS_PREV_FINAL_RESPONSIBILITY
-displayName: "Ultimate responsibility must remain with humans and the organization"
+displayName: "Final responsibility must remain with humans and the organization"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HBS_PREV_FINAL_RESPONSIBILITY.md
 ---
 
-# Ultimate responsibility must remain with humans and the organization — Tasks
+# Final responsibility must remain with humans and the organization — Tasks
 
 ## Tasks
 1. Classify the types of decisions within the organization and identify the items that qualify as "important decisions."

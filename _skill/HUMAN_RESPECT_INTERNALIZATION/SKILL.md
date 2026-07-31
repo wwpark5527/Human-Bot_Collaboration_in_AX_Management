@@ -3,7 +3,7 @@ name: human_respect_internalization_skill
 description: Use this when respect for humans must be internalized in bot (robot/AI) education and design as a system design problem of the action, reward, and verification structure rather than as moral injection.
 ---
 
-# Internalization of Respect for Humans — Skill
+# Internalization of Human Respect — Skill
 
 ## Purpose
 Internalize respect for humans, the most important element of bot education, not as moral injection but as a system design problem of ensuring that only actions which do not infringe upon humans are selected.

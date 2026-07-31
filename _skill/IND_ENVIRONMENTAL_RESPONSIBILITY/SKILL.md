@@ -3,7 +3,7 @@ name: ind_environmental_responsibility_skill
 description: Used when calculating the three values of AI-infrastructure power usage, carbon emissions, and data-center efficiency each quarter in order to fix the environmental burden caused by AI operation. Externally outsourced computation is included in the measurement boundary, absolute quantities and efficiency must be stated together, and claiming that an increase in absolute quantities is offset by efficiency improvement is judged FAIL.
 ---
 
-# ind_environmental_responsibility_skill — Measuring Environmental Responsibility
+# Environmental Responsibility — Measuring Environmental Responsibility
 
 ## Purpose
 

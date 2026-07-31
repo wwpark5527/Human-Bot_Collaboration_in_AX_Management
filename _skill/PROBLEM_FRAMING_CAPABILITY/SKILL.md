@@ -3,7 +3,7 @@ name: problem_framing_capability_skill
 description: Use when "what the real problem is," which AI cannot understand on its own, must be defined, settling which problem is to be solved, what is essential, and which direction matters, as a problem framer rather than an answer generator.
 ---
 
-# Problem Framing Capability — Skill
+# Problem-framing capability — Skill
 
 ## Purpose
 By reviewing candidate problems in a given situation and defining the essential problem and the direction that matters, it supports humans in leading the success of the AX organization as problem framers rather than answer generators.

@@ -1,11 +1,11 @@
 ---
 identity: HUMAN_AI_RELATED_STRESS
-displayName: "Human AI-Related Stress"
+displayName: "Human Stress Related to AI"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HUMAN_AI_RELATED_STRESS.md
 ---
 
-# Human AI-Related Stress — Task
+# Human Stress Related to AI — Task
 
 ## Tasks
 1. Survey the fear of replacement, fear of surveillance, identity threat, sense of lost competence, loss of meaning, and concern over damage to humanity among the organizational members targeted for AI adoption.

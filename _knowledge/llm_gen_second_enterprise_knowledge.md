@@ -1,11 +1,11 @@
 ---
 identity: LLM_GEN_SECOND_ENTERPRISE
-displayName: "The Second LLM"
+displayName: "The 2nd LLM"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/LLM_GEN_SECOND_ENTERPRISE.md
 ---
 
-# The Second LLM — Knowledge
+# The 2nd LLM — Knowledge
 
 ## Core Knowledge
 - The 'second LLM' is a model equipped with a knowledge chain based on common and governance context; it is a designation that narrowly names the knowledge chain and context of layer 3, and broadly names the sum of layers 1 through 4.

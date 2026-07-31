@@ -1,11 +1,11 @@
 ---
 identity: LLM_GEN_THIRD_FULL_STACK
-displayName: "The Third LLM"
+displayName: "The 3rd LLM"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/LLM_GEN_THIRD_FULL_STACK.md
 ---
 
-# The Third LLM — Knowledge
+# The 3rd LLM — Knowledge
 
 ## Core Knowledge
 - The 'third LLM' is the designation attached to the sum of layers 1 through 5, fully in place up to layer 5; it is first presented in footnote 4) of Chapter 1 and its detailed content is deferred to Chapter 8.

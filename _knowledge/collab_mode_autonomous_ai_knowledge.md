@@ -1,11 +1,11 @@
 ---
 identity: COLLAB_MODE_AUTONOMOUS_AI
-displayName: "Autonomous AI"
+displayName: "Autonomous AI (AI-autonomous execution)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/COLLAB_MODE_AUTONOMOUS_AI.md
 ---
 
-# Autonomous AI — Knowledge
+# Autonomous AI (AI-autonomous execution) — Knowledge
 
 ## Core Knowledge
 - Among the four types in the classification of human-AI collaboration modes (HITL / AI-in-the-loop / HOTL / Autonomous AI), Autonomous AI is the last and fourth type, with minimal human intervention.

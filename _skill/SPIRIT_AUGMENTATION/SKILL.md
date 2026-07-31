@@ -3,7 +3,7 @@ name: spirit_augmentation_skill
 description: Use this when determining whether the realization of augmentation, the first spirit of the system of basic management philosophy and core spirits, is properly reflected in organizational management.
 ---
 
-# Realization of Augmentation — Skill
+# Augmentation Realization — Skill
 
 ## Purpose
 Determine whether, within the system of core management spirits (basic premise + 3 spirits), augmentation is being realized as a principle of amplification rather than replacement, and confirm whether it operates as a trinity together with respect for and use of diversity and the pursuit of complementary fit.

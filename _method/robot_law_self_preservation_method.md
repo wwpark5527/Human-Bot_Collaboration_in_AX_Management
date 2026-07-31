@@ -1,11 +1,11 @@
 ---
 identity: ROBOT_LAW_SELF_PRESERVATION
-displayName: "③ The Robot's Own Self-Preservation (Maintenance of Existence)"
+displayName: "③ Robot's own self-preservation (maintenance of existence)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/ROBOT_LAW_SELF_PRESERVATION.md
 ---
 
-# ③ The Robot's Own Self-Preservation (Maintenance of Existence) — Method
+# ③ Robot's own self-preservation (maintenance of existence) — Method
 
 ## Method / Procedure
 1. Detect the threat or damage situation the bot faces and assess whether self-preservation is necessary.

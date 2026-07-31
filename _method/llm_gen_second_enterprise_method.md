@@ -1,11 +1,11 @@
 ---
 identity: LLM_GEN_SECOND_ENTERPRISE
-displayName: "The Second LLM"
+displayName: "The 2nd LLM"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/LLM_GEN_SECOND_ENTERPRISE.md
 ---
 
-# The Second LLM — Method
+# The 2nd LLM — Method
 
 ## Method / Procedure
 1. Confirm whether the target model is an upper architecture built on top of the existing LLM (the first LLM).

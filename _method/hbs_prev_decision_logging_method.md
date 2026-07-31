@@ -1,11 +1,11 @@
 ---
 identity: HBS_PREV_DECISION_LOGGING
-displayName: "AI's judgment process must be recorded"
+displayName: "AI's decision-making process must be recorded"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HBS_PREV_DECISION_LOGGING.md
 ---
 
-# AI's judgment process must be recorded — Method
+# AI's decision-making process must be recorded — Method
 
 ## Method / Procedure
 1. Check whether AI was involved in the target judgment.

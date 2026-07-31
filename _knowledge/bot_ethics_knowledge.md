@@ -1,11 +1,11 @@
 ---
 identity: BOT_ETHICS
-displayName: "Bot Ethics"
+displayName: "The ethics of bots"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/BOT_ETHICS.md
 ---
 
-# Bot Ethics — Knowledge
+# The ethics of bots — Knowledge
 
 ## Core Knowledge
 - The title is "bot ethics," but in reality it is ethics that every member of the AX organization (humans plus bots) must observe.

@@ -1,11 +1,11 @@
 ---
 identity: HBS_PREV_FINAL_RESPONSIBILITY
-displayName: "Ultimate responsibility must remain with humans and the organization"
+displayName: "Final responsibility must remain with humans and the organization"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HBS_PREV_FINAL_RESPONSIBILITY.md
 ---
 
-# Ultimate responsibility must remain with humans and the organization — Knowledge
+# Final responsibility must remain with humans and the organization — Knowledge
 
 ## Core Knowledge
 - The section on honbibaeksan prevention measures presents five concrete practice guidelines under the premise that, in order to prevent honbibaeksan, the relationship between humans and technology must be redesigned, and this guideline is the first of them.

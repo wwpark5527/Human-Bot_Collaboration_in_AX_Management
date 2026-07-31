@@ -1,11 +1,11 @@
 ---
 identity: HBCMP_RECOVERY
-displayName: "Recovery Mode"
+displayName: "Recovery Method"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HBCMP_RECOVERY.md
 ---
 
-# Recovery Mode — Task
+# Recovery Method — Task
 
 ## Tasks
 1. Confirm the human or bot cases determined to be in a state of stress.

@@ -1,11 +1,11 @@
 ---
 identity: ROBOT_LAW_SELF_PRESERVATION
-displayName: "③ The Robot's Own Self-Preservation (Maintenance of Existence)"
+displayName: "③ Robot's own self-preservation (maintenance of existence)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/ROBOT_LAW_SELF_PRESERVATION.md
 ---
 
-# ③ The Robot's Own Self-Preservation (Maintenance of Existence) — Goal
+# ③ Robot's own self-preservation (maintenance of existence) — Goal
 
 The goal is to have the bot (robot) protect itself within the range that does not conflict with the First Law (respect for human safety and life) and the Second Law (obedience to humans), thereby realizing the third principle of the internalization of respect for humans in organizational AX operations.
 

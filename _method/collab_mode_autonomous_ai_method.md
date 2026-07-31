@@ -1,11 +1,11 @@
 ---
 identity: COLLAB_MODE_AUTONOMOUS_AI
-displayName: "Autonomous AI"
+displayName: "Autonomous AI (AI-autonomous execution)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/COLLAB_MODE_AUTONOMOUS_AI.md
 ---
 
-# Autonomous AI — Method
+# Autonomous AI (AI-autonomous execution) — Method
 
 ## Method / Procedure
 1. Confirm whether the agent performing the work is AI.

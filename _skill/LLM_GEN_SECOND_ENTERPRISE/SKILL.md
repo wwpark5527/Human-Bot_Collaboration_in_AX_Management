@@ -3,7 +3,7 @@ name: llm_gen_second_enterprise_skill
 description: Used when discriminating whether a target LLM system of use corresponds to the 'second LLM' (an enterprise-type upper architecture equipped with a knowledge chain based on common and governance context), on the criteria of the changes in paradigm and in operating entity.
 ---
 
-# The Second LLM — Skill
+# The 2nd LLM — Skill
 
 ## Purpose
 Discriminate whether the target LLM system of use has reached the level of the 'second LLM' (knowledge control + enterprise internalization).

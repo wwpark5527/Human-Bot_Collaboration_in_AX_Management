@@ -3,7 +3,7 @@ name: human_ai_orchestration_skill
 description: Used when the roles of multiple AI agents and of humans and bots must be orchestrated and the collaboration structure designed, so that the leader creates new value, organizations, markets, and order as an augmented orchestrator who integrates the capabilities of humans and AI rather than as an executor.
 ---
 
-# Human-AI Orchestration — Skill
+# Human-AI Orchestration (orchestration) — Skill
 
 ## Purpose
 By designing, controlling, and amplifying the human-AI collaboration structure, it exercises the orchestrating, integrating, and designing capability that creates new value, organizations, markets, and order by using AI.

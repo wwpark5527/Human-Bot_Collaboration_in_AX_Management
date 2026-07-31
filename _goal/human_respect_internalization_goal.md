@@ -1,11 +1,11 @@
 ---
 identity: HUMAN_RESPECT_INTERNALIZATION
-displayName: "Internalization of Respect for Humans"
+displayName: "Internalization of Human Respect"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HUMAN_RESPECT_INTERNALIZATION.md
 ---
 
-# Internalization of Respect for Humans — Goal
+# Internalization of Human Respect — Goal
 
 The goal is to internalize respect for humans, the most important element of bot education, into organizational AX operations not as moral injection but as a system design problem of ensuring that only actions which do not infringe upon humans are selected.
 

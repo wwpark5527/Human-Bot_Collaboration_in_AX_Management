@@ -3,7 +3,7 @@ name: human_ai_related_stress_skill
 description: Used when diagnosing the cause of an AI adoption failure or designing an AI adoption requires reflecting the stress humans carry in relation to AI, such as fear of replacement, fear of surveillance, identity threat, a sense of lost competence, loss of meaning, and concern over damage to humanity.
 ---
 
-# Human AI-Related Stress — Skill
+# Human Stress Related to AI — Skill
 
 ## Purpose
 Recognize the stress humans undergo during AI adoption, and make it possible to diagnose the cause of AI adoption failure first from the perspective of human reaction failure rather than technology failure.

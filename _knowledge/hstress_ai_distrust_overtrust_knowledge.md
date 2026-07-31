@@ -1,11 +1,11 @@
 ---
 identity: HSTRESS_AI_DISTRUST_OVERTRUST
-displayName: "Stress from AI Distrust or Overtrust"
+displayName: "Stress from distrust or overtrust of AI"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HSTRESS_AI_DISTRUST_OVERTRUST.md
 ---
 
-# Stress from AI Distrust or Overtrust — Knowledge
+# Stress from distrust or overtrust of AI — Knowledge
 
 ## Core Knowledge
 - As the fourth type among 'human stress types (5 types)', it comes after cognitive overload (the third type) and arises from the state of tension itself in which the human wavers between the two extremes of distrust and overtrust toward AI.

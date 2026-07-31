@@ -3,7 +3,7 @@ name: hbcmp_recovery_skill
 description: Used when determining whether to apply a prescription of the rest, empathy, and motivation family or one of the readjustment and relearning family to a human or bot state of stress.
 ---
 
-# Recovery Mode — Skill
+# Recovery Method — Skill
 
 ## Purpose
 It selects the recovery prescription for a state of stress according to the 'recovery mode' axis of the human stress vs bot stress comparison structure, thereby providing the grounds for applying an effective response prescription.

@@ -1,11 +1,11 @@
 ---
 identity: ORG_CHANGE_ADAPTABILITY
-displayName: "Organizational Change Adaptability"
+displayName: "Organizational-change adaptability"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/ORG_CHANGE_ADAPTABILITY.md
 ---
 
-# Organizational Change Adaptability — Method
+# Organizational-change adaptability — Method
 
 ## Method / Procedure
 1. Grasp the changes that have occurred in the areas of roles, authority, collaboration, and evaluation.

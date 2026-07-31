@@ -1,11 +1,11 @@
 ---
 identity: UNESCO_AI_ETHICS_RECOMMENDATION
-displayName: "UNESCO Recommendation on the Ethics of AI (2021)"
+displayName: "UNESCO's Recommendation on the Ethics of AI (2021)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/UNESCO_AI_ETHICS_RECOMMENDATION.md
 ---
 
-# UNESCO Recommendation on the Ethics of AI (2021) — Task
+# UNESCO's Recommendation on the Ethics of AI (2021) — Task
 
 ## Tasks
 1. Review the four values of the UNESCO Recommendation on the Ethics of AI (respect for human rights, freedoms, and dignity; the flourishing of the environment and ecosystems; diversity and inclusiveness; peaceful, just, and interconnected societies).

@@ -1,11 +1,11 @@
 ---
 identity: UNESCO_AI_ETHICS_RECOMMENDATION
-displayName: "UNESCO Recommendation on the Ethics of AI (2021)"
+displayName: "UNESCO's Recommendation on the Ethics of AI (2021)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/UNESCO_AI_ETHICS_RECOMMENDATION.md
 ---
 
-# UNESCO Recommendation on the Ethics of AI (2021) — Method
+# UNESCO's Recommendation on the Ethics of AI (2021) — Method
 
 ## Method / Procedure
 1. Compare the four values and ten principles of the original UNESCO Recommendation on the Ethics of AI against the existing ethical system of organizational AX.

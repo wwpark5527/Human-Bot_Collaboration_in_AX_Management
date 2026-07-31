@@ -3,7 +3,7 @@ name: llm_gen_third_full_stack_skill
 description: Used when discriminating whether a target system stops at the sum of layers 1 through 4 (the 'second LLM') or has reached the status of the 'third LLM' (layers 1 through 5 fully in place) with layer 5 added.
 ---
 
-# The Third LLM — Skill
+# The 3rd LLM — Skill
 
 ## Purpose
 Discriminate whether the completion status of the target system is the 'second LLM' (layers 1 through 4) or the 'third LLM' (layers 1 through 5 fully in place).

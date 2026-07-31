@@ -1,11 +1,11 @@
 ---
 identity: HSTRESS_AI_DISTRUST_OVERTRUST
-displayName: "Stress from AI Distrust or Overtrust"
+displayName: "Stress from distrust or overtrust of AI"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HSTRESS_AI_DISTRUST_OVERTRUST.md
 ---
 
-# Stress from AI Distrust or Overtrust — Goal
+# Stress from distrust or overtrust of AI — Goal
 
 The goal is to understand the stress that arises as the human wavers between the two extremes of AI distrust and overtrust, and to establish a balanced level of trust by being especially wary of the overtrust-side risk that leads to a weakening of judgment and responsibility avoidance.
 

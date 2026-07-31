@@ -1,11 +1,11 @@
 ---
 identity: PROBLEM_FRAMING_CAPABILITY
-displayName: "Problem Framing Capability"
+displayName: "Problem-framing capability"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/PROBLEM_FRAMING_CAPABILITY.md
 ---
 
-# Problem Framing Capability — Tasks
+# Problem-framing capability — Tasks
 
 ## Tasks
 1. List the candidate problems to be addressed in the given situation.

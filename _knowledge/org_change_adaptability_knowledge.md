@@ -1,11 +1,11 @@
 ---
 identity: ORG_CHANGE_ADAPTABILITY
-displayName: "Organizational Change Adaptability"
+displayName: "Organizational-change adaptability"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/ORG_CHANGE_ADAPTABILITY.md
 ---
 
-# Organizational Change Adaptability — Knowledge
+# Organizational-change adaptability — Knowledge
 
 ## Core Knowledge
 - Organizational change adaptability is the sixth and last of the six items in "Necessary conditions for talent in an AX organization: the capabilities of the human who survives," and it is the capability at the stage following critical thinking.

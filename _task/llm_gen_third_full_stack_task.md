@@ -1,11 +1,11 @@
 ---
 identity: LLM_GEN_THIRD_FULL_STACK
-displayName: "The Third LLM"
+displayName: "The 3rd LLM"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/LLM_GEN_THIRD_FULL_STACK.md
 ---
 
-# The Third LLM — Task
+# The 3rd LLM — Task
 
 ## Tasks
 1. Confirm whether the organization's current status is at the level of layers 1 through 4 (the 'second LLM').

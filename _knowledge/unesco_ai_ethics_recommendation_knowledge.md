@@ -1,11 +1,11 @@
 ---
 identity: UNESCO_AI_ETHICS_RECOMMENDATION
-displayName: "UNESCO Recommendation on the Ethics of AI (2021)"
+displayName: "UNESCO's Recommendation on the Ethics of AI (2021)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/UNESCO_AI_ETHICS_RECOMMENDATION.md
 ---
 
-# UNESCO Recommendation on the Ethics of AI (2021) — Knowledge
+# UNESCO's Recommendation on the Ethics of AI (2021) — Knowledge
 
 ## Core Knowledge
 - It is the first global AI ethics norm, adopted unanimously by 193 member states at the 2021 General Conference.

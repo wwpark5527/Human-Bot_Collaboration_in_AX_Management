@@ -1,11 +1,11 @@
 ---
 identity: HUMAN_AI_RELATED_STRESS
-displayName: "Human AI-Related Stress"
+displayName: "Human Stress Related to AI"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HUMAN_AI_RELATED_STRESS.md
 ---
 
-# Human AI-Related Stress — Method
+# Human Stress Related to AI — Method
 
 ## Method / Procedure
 1. Survey the organizational members targeted for AI adoption for fear of replacement, fear of surveillance, identity threat, sense of lost competence, loss of meaning, and concern over damage to humanity.

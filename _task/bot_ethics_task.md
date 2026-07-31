@@ -1,11 +1,11 @@
 ---
 identity: BOT_ETHICS
-displayName: "Bot Ethics"
+displayName: "The ethics of bots"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/BOT_ETHICS.md
 ---
 
-# Bot Ethics — Task
+# The ethics of bots — Task
 
 ## Tasks
 1. Investigate and organize external AI ethical standards such as UNESCO, OECD, the EU, IEEE, the Korean government, and Claude's constitution.

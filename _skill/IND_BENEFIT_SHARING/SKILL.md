@@ -3,7 +3,7 @@ name: ind_benefit_sharing_skill
 description: Used when calculating the reinvestment rate of AI productivity gains into compensation, education, and welfare each accounting cycle in order to fix as a single figure whether the gains flowed back to members. The basis of computation for the denominator is made a mandatory submission, the three channels are decomposed, and PASS is judged only after the proportion of beneficiaries and the distribution by grade and employment type have been confirmed.
 ---
 
-# ind_benefit_sharing_skill — Measuring the Benefit Sharing Reinvestment Rate
+# Benefit Sharing — Measuring the Benefit Sharing Reinvestment Rate
 
 ## Purpose
 

@@ -1,11 +1,11 @@
 ---
 identity: HUMAN_RESPECT_INTERNALIZATION
-displayName: "Internalization of Respect for Humans"
+displayName: "Internalization of Human Respect"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HUMAN_RESPECT_INTERNALIZATION.md
 ---
 
-# Internalization of Respect for Humans — Method
+# Internalization of Human Respect — Method
 
 ## Method / Procedure
 1. Review classical duties of respect for humans and safety such as the three laws of robotics and take them as the starting point of internalization.

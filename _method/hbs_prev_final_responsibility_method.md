@@ -1,11 +1,11 @@
 ---
 identity: HBS_PREV_FINAL_RESPONSIBILITY
-displayName: "Ultimate responsibility must remain with humans and the organization"
+displayName: "Final responsibility must remain with humans and the organization"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HBS_PREV_FINAL_RESPONSIBILITY.md
 ---
 
-# Ultimate responsibility must remain with humans and the organization — Method
+# Final responsibility must remain with humans and the organization — Method
 
 ## Method / Procedure
 1. Determine whether the decision under review qualifies as an "important decision" (a decision that has a significant impact on the organization and its stakeholders).

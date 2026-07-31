@@ -1,11 +1,11 @@
 ---
 identity: LLM_GEN_THIRD_FULL_STACK
-displayName: "The Third LLM"
+displayName: "The 3rd LLM"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/LLM_GEN_THIRD_FULL_STACK.md
 ---
 
-# The Third LLM — Method
+# The 3rd LLM — Method
 
 ## Method / Procedure
 1. Confirm whether the target system has layers 1 through 4 fully in place (whether it has reached the level of the second LLM).

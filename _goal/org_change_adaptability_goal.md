@@ -1,11 +1,11 @@
 ---
 identity: ORG_CHANGE_ADAPTABILITY
-displayName: "Organizational Change Adaptability"
+displayName: "Organizational-change adaptability"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/ORG_CHANGE_ADAPTABILITY.md
 ---
 
-# Organizational Change Adaptability — Goal
+# Organizational-change adaptability — Goal
 
 The goal is not to refuse the changes that occur rapidly at many scopes and levels in an AX organization, such as roles, authority, collaboration, and evaluation, but to adapt to those changes and remain a valuable presence in the organization rather than being marginalized.
 

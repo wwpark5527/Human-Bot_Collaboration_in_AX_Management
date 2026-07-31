@@ -1,11 +1,11 @@
 ---
 identity: HUMAN_RESPECT_INTERNALIZATION
-displayName: "Internalization of Respect for Humans"
+displayName: "Internalization of Human Respect"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HUMAN_RESPECT_INTERNALIZATION.md
 ---
 
-# Internalization of Respect for Humans — Knowledge
+# Internalization of Human Respect — Knowledge
 
 ## Core Knowledge
 - Among all education for bots, respect for humans is the most important of all, and the three laws of robotics are introduced as the most classical and representative content imposing the duty of respect for humans and safety on robots.

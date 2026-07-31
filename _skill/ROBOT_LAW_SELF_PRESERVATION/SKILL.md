@@ -3,7 +3,7 @@ name: robot_law_self_preservation_skill
 description: Use this when you must design or check whether a bot's (robot's/AI's) action to protect itself conflicts with the First and Second Laws under the Third Law of the three laws of robotics (self-preservation).
 ---
 
-# ③ The Robot's Own Self-Preservation (Maintenance of Existence) — Skill
+# ③ Robot's own self-preservation (maintenance of existence) — Skill
 
 ## Purpose
 Have the bot protect itself within the range that does not conflict with the First Law (respect for human safety and life) and the Second Law (obedience to humans), thereby realizing the third principle of the internalization of respect for humans.

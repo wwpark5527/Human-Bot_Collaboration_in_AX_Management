@@ -3,7 +3,7 @@ name: hbs_prev_decision_logging_skill
 description: Use this when determining whether the grounds of judgment, the data used, the approver, and the risks reviewed are recorded without omission for a judgment in which AI was involved.
 ---
 
-# AI's judgment process must be recorded — Skill
+# AI's decision-making process must be recorded — Skill
 
 ## Purpose
 Confirm whether the judgment process in which AI was involved (grounds, data, approver, risks reviewed) is left as a record, thereby preventing the extinction of responsibility caused by the absence of a record.

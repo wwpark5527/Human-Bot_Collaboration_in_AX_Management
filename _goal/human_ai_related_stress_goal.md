@@ -1,11 +1,11 @@
 ---
 identity: HUMAN_AI_RELATED_STRESS
-displayName: "Human AI-Related Stress"
+displayName: "Human Stress Related to AI"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HUMAN_AI_RELATED_STRESS.md
 ---
 
-# Human AI-Related Stress — Goal
+# Human Stress Related to AI — Goal
 
 The goal is to recognize the stress humans undergo during AI adoption, such as fear of replacement, fear of surveillance, identity threat, a sense of lost competence, loss of meaning, and concern over damage to humanity, and to make it possible to diagnose the cause of AI adoption failure first from the perspective of human reaction failure rather than technology failure.
 

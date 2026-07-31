@@ -3,7 +3,7 @@ name: bot_ethics_skill
 description: Use this when a system of ethical standards for an AX organization (necessary conditions/additional conditions) must be established or when the ethical compliance of every member, including bots, must be checked.
 ---
 
-# Bot Ethics — Skill
+# The ethics of bots — Skill
 
 ## Purpose
 Establish a system of ethical standards that every member of the AX organization (humans and bots) must observe, so that the process of realizing organizational AX proceeds safely and justly.

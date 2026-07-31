@@ -1,11 +1,11 @@
 ---
 identity: SPIRIT_AUGMENTATION
-displayName: "Realization of Augmentation"
+displayName: "Augmentation Realization"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/SPIRIT_AUGMENTATION.md
 ---
 
-# Realization of Augmentation — Knowledge
+# Augmentation Realization — Knowledge
 
 ## Core Knowledge
 - The system of basic management philosophy and core spirits consists of one basic premise (human centrality) and three core spirits (augmentation / respect for and use of diversity / pursuit of complementary fit), and augmentation is the first of those spirits.

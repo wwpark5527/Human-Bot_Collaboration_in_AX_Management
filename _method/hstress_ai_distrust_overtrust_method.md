@@ -1,11 +1,11 @@
 ---
 identity: HSTRESS_AI_DISTRUST_OVERTRUST
-displayName: "Stress from AI Distrust or Overtrust"
+displayName: "Stress from distrust or overtrust of AI"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HSTRESS_AI_DISTRUST_OVERTRUST.md
 ---
 
-# Stress from AI Distrust or Overtrust — Method
+# Stress from distrust or overtrust of AI — Method
 
 ## Method / Procedure
 1. Confirm whether distrust signals of the kind "what if the AI is wrong? what about hallucination? what about manipulated data?" appear in the expression of stress.

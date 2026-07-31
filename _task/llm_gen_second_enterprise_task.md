@@ -1,11 +1,11 @@
 ---
 identity: LLM_GEN_SECOND_ENTERPRISE
-displayName: "The Second LLM"
+displayName: "The 2nd LLM"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/LLM_GEN_SECOND_ENTERPRISE.md
 ---
 
-# The Second LLM — Task
+# The 2nd LLM — Task
 
 ## Tasks
 1. Check whether a knowledge chain based on common and governance context (layer 3) has been formed within the organization.

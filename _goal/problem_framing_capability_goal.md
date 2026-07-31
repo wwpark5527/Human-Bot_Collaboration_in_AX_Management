@@ -1,11 +1,11 @@
 ---
 identity: PROBLEM_FRAMING_CAPABILITY
-displayName: "Problem Framing Capability"
+displayName: "Problem-framing capability"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/PROBLEM_FRAMING_CAPABILITY.md
 ---
 
-# Problem Framing Capability — Goal
+# Problem-framing capability — Goal
 
 The goal is to lead the success of the AX organization as a problem framer rather than an answer generator, by having humans define "what the real problem is," which AI cannot understand on its own.
 

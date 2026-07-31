@@ -3,7 +3,7 @@ name: collab_mode_autonomous_ai_skill
 description: Use this when determining whether a human-AI collaboration mode corresponds to Autonomous AI (AI autonomous execution, minimal human intervention, HOOTL).
 ---
 
-# Autonomous AI — Skill
+# Autonomous AI (AI-autonomous execution) — Skill
 
 ## Purpose
 Identify whether a human-AI collaboration mode is the Autonomous AI type, in which AI performs fully autonomously and human intervention is effectively absent, and distinguish it from Human-in-the-loop / AI-in-the-loop / Human-on-the-loop.

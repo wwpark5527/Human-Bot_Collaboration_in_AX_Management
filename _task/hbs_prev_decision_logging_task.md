@@ -1,11 +1,11 @@
 ---
 identity: HBS_PREV_DECISION_LOGGING
-displayName: "AI's judgment process must be recorded"
+displayName: "AI's decision-making process must be recorded"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HBS_PREV_DECISION_LOGGING.md
 ---
 
-# AI's judgment process must be recorded — Tasks
+# AI's decision-making process must be recorded — Tasks
 
 ## Tasks
 1. Design a recording form for the four items that must be recorded (grounds of judgment, data used, approver, risks reviewed) for each type of judgment in which AI is involved.

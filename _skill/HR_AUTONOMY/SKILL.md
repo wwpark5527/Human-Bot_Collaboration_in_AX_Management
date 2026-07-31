@@ -3,7 +3,7 @@ name: hr_autonomy_skill
 description: Use this when you must design or check whether a bot's (robot's/AI's) action infringes upon human choice or manipulates or deceives, that is, the respect-for-autonomy element of the technical definition of respect for humans.
 ---
 
-# Respect for Autonomy — Skill
+# Autonomy — Skill
 
 ## Purpose
 Have the bot refrain from infringing upon human choice and from manipulation and deception, thereby realizing the second of the machine-understandable minimum definitions of respect for humans.

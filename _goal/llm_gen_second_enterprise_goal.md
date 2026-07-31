@@ -1,11 +1,11 @@
 ---
 identity: LLM_GEN_SECOND_ENTERPRISE
-displayName: "The Second LLM"
+displayName: "The 2nd LLM"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/LLM_GEN_SECOND_ENTERPRISE.md
 ---
 
-# The Second LLM — Goal
+# The 2nd LLM — Goal
 
 The goal is for the organization to internalize its own discipline and context on top of the external general-purpose LLM (the first LLM) and thereby to be equipped with a controllable and reliable system of use at the level of the 'second LLM'.
 

@@ -1,11 +1,11 @@
 ---
 identity: UNESCO_AI_ETHICS_RECOMMENDATION
-displayName: "UNESCO Recommendation on the Ethics of AI (2021)"
+displayName: "UNESCO's Recommendation on the Ethics of AI (2021)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/UNESCO_AI_ETHICS_RECOMMENDATION.md
 ---
 
-# UNESCO Recommendation on the Ethics of AI (2021) — Goal
+# UNESCO's Recommendation on the Ethics of AI (2021) — Goal
 
 The aim is for organizational AX to reference and reflect the four values and ten principles of the UNESCO Recommendation, the most internationally authoritative AI ethics norm, and thereby to have an ethical foundation conforming to international human rights law.
 

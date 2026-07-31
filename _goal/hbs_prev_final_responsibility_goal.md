@@ -1,11 +1,11 @@
 ---
 identity: HBS_PREV_FINAL_RESPONSIBILITY
-displayName: "Ultimate responsibility must remain with humans and the organization"
+displayName: "Final responsibility must remain with humans and the organization"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HBS_PREV_FINAL_RESPONSIBILITY.md
 ---
 
-# Ultimate responsibility must remain with humans and the organization — Goal
+# Final responsibility must remain with humans and the organization — Goal
 
 The goal is to build an operating structure in which, no matter how sophisticated the advice and analysis AI provides, the final right of judgment and responsibility for important decisions are fixed to humans and the organization.
 

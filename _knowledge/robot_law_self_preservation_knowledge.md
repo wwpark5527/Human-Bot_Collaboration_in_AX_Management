@@ -1,11 +1,11 @@
 ---
 identity: ROBOT_LAW_SELF_PRESERVATION
-displayName: "③ The Robot's Own Self-Preservation (Maintenance of Existence)"
+displayName: "③ Robot's own self-preservation (maintenance of existence)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/ROBOT_LAW_SELF_PRESERVATION.md
 ---
 
-# ③ The Robot's Own Self-Preservation (Maintenance of Existence) — Knowledge
+# ③ Robot's own self-preservation (maintenance of existence) — Knowledge
 
 ## Core Knowledge
 - The three laws of robotics are principles presented by the science fiction writer I. Asimov in the short story Runaround (1942), and they are the most classical and representative content imposing the duty of respect for humans and safety on robots.

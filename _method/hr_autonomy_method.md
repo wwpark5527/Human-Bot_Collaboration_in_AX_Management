@@ -1,11 +1,11 @@
 ---
 identity: HR_AUTONOMY
-displayName: "Respect for Autonomy"
+displayName: "Autonomy"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HR_AUTONOMY.md
 ---
 
-# Respect for Autonomy — Method
+# Autonomy — Method
 
 ## Method / Procedure
 1. Collect the bot's candidate actions and assess in advance the impact each action has on the human right of choice.

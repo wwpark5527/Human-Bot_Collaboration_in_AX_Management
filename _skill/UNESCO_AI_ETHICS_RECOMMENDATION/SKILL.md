@@ -3,7 +3,7 @@ name: unesco_ai_ethics_recommendation_skill
 description: Use this when the ethical system of organizational AX must be reviewed against the UNESCO Recommendation on the Ethics of AI (four values and ten principles, 2021) or when an implementation plan must be established.
 ---
 
-# UNESCO Recommendation on the Ethics of AI (2021) — Skill
+# UNESCO's Recommendation on the Ethics of AI (2021) — Skill
 
 ## Purpose
 Enable organizational AX to reference and reflect the four values and ten principles of the UNESCO Recommendation, the most internationally authoritative AI ethics norm, and thereby to have an ethical foundation conforming to international human rights law.

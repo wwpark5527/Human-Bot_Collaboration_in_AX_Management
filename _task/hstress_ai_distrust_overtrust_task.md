@@ -1,11 +1,11 @@
 ---
 identity: HSTRESS_AI_DISTRUST_OVERTRUST
-displayName: "Stress from AI Distrust or Overtrust"
+displayName: "Stress from distrust or overtrust of AI"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HSTRESS_AI_DISTRUST_OVERTRUST.md
 ---
 
-# Stress from AI Distrust or Overtrust — Task
+# Stress from distrust or overtrust of AI — Task
 
 ## Tasks
 1. Identify, respectively, the signs of AI distrust ("what if it is wrong? what about hallucination? what about manipulated data?") and AI overtrust ("the AI recommended it, so it must be right") in members' utterances.

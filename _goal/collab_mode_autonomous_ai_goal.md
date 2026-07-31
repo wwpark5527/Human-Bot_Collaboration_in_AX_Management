@@ -1,11 +1,11 @@
 ---
 identity: COLLAB_MODE_AUTONOMOUS_AI
-displayName: "Autonomous AI"
+displayName: "Autonomous AI (AI-autonomous execution)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/COLLAB_MODE_AUTONOMOUS_AI.md
 ---
 
-# Autonomous AI — Goal
+# Autonomous AI (AI-autonomous execution) — Goal
 
 The objective is to identify the Autonomous AI collaboration mode in which AI performs work autonomously without human intervention, and to manage the reliability of results and the locus of accountability even in situations where human intervention is minimized.
 

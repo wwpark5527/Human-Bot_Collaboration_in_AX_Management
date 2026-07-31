@@ -1,11 +1,11 @@
 ---
 identity: HBCMP_RECOVERY
-displayName: "Recovery Mode"
+displayName: "Recovery Method"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HBCMP_RECOVERY.md
 ---
 
-# Recovery Mode — Knowledge
+# Recovery Method — Knowledge
 
 ## Core Knowledge
 - As the fourth comparative axis of the 'human stress vs bot stress comparison' table, it is positioned after result (Burnout and dissatisfaction / performance degradation and errors) and defines the prescription for reversing that worsened state.

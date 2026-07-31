@@ -3,7 +3,7 @@ name: hstress_ai_distrust_overtrust_skill
 description: Used when determining whether a case corresponds to the stress that comes from the state of tension in which the human wavers between the two extremes of distrust and overtrust toward AI.
 ---
 
-# Stress from AI Distrust or Overtrust — Skill
+# Stress from distrust or overtrust of AI — Skill
 
 ## Purpose
 Determine whether a stress of an AX organization member corresponds to AI distrust/overtrust stress among the human stress types (5 types), and provide the grounds for a response that establishes an evidence-based level of trust.

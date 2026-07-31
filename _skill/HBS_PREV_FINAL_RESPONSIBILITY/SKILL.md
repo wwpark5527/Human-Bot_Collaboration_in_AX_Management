@@ -3,7 +3,7 @@ name: hbs_prev_final_responsibility_skill
 description: Use this when determining whether, even with AI's advice and analysis involved in important decisions, the final right of judgment and responsibility explicitly remain with humans and the organization.
 ---
 
-# Ultimate responsibility must remain with humans and the organization — Skill
+# Final responsibility must remain with humans and the organization — Skill
 
 ## Purpose
 In accordance with the principle that AI can advise but cannot take responsibility, determine whether the holder of the final right of judgment and the subject of responsibility in important decisions are clearly designated as a human or an organization.

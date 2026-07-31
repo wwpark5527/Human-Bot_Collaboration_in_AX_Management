@@ -1,11 +1,11 @@
 ---
 identity: SPIRIT_AUGMENTATION
-displayName: "Realization of Augmentation"
+displayName: "Augmentation Realization"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/SPIRIT_AUGMENTATION.md
 ---
 
-# Realization of Augmentation — Goal
+# Augmentation Realization — Goal
 
 The objective is to realize augmentation in actual organizational management as the first spirit of the system of basic management philosophy and core spirits, and thereby to establish a structure in which humans and bots mutually learn, co-evolve, and produce results together.
 

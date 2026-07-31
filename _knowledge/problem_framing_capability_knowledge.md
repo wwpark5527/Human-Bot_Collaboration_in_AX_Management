@@ -1,11 +1,11 @@
 ---
 identity: PROBLEM_FRAMING_CAPABILITY
-displayName: "Problem Framing Capability"
+displayName: "Problem-framing capability"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/PROBLEM_FRAMING_CAPABILITY.md
 ---
 
-# Problem Framing Capability — Knowledge
+# Problem-framing capability — Knowledge
 
 ## Core Knowledge
 - Problem framing capability is the first of the five items in "Additional conditions for talent in an AX organization: the capabilities of the leader who succeeds."

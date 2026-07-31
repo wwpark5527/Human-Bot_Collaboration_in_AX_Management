@@ -1,11 +1,11 @@
 ---
 identity: LLM_GEN_FIRST_UNIVERSAL
-displayName: "The First LLM"
+displayName: "The 1st LLM"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/LLM_GEN_FIRST_UNIVERSAL.md
 ---
 
-# The First LLM — Method
+# The 1st LLM — Method
 
 ## Method / Procedure
 1. Confirm whether the target LLM is a general-purpose model supplied externally by big tech.

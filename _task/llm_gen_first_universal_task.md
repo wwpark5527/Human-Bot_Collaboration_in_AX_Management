@@ -1,11 +1,11 @@
 ---
 identity: LLM_GEN_FIRST_UNIVERSAL
-displayName: "The First LLM"
+displayName: "The 1st LLM"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/LLM_GEN_FIRST_UNIVERSAL.md
 ---
 
-# The First LLM — Task
+# The 1st LLM — Task
 
 ## Tasks
 1. Confirm whether the external LLM the organization is using is a general-purpose LLM supplied by big tech (the first LLM).

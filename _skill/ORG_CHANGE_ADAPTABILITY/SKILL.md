@@ -3,7 +3,7 @@ name: org_change_adaptability_skill
 description: Use when facing changes that occur rapidly at many scopes and levels in an AX organization, such as roles, authority, collaboration, and evaluation, in order to adapt rather than refuse and to remain a valuable presence in the organization without being marginalized.
 ---
 
-# Organizational Change Adaptability — Skill
+# Organizational-change adaptability — Skill
 
 ## Purpose
 By grasping and adapting to the changes occurring rapidly in the organization's areas of roles, authority, collaboration, and evaluation, it supports remaining a valuable presence in the organization without being marginalized.

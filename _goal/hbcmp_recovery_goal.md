@@ -1,11 +1,11 @@
 ---
 identity: HBCMP_RECOVERY
-displayName: "Recovery Mode"
+displayName: "Recovery Method"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HBCMP_RECOVERY.md
 ---
 
-# Recovery Mode — Goal
+# Recovery Method — Goal
 
 The goal is to make clear that the prescriptions for reversing human and bot stress differ from each other (rest, empathy, and motivation vs readjustment and relearning), and thereby to prevent mistaken prescriptions (for example, giving a bot rest or demanding only relearning from a human).
 

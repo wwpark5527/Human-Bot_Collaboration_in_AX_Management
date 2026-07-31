@@ -1,11 +1,11 @@
 ---
 identity: HBS_PREV_DECISION_LOGGING
-displayName: "AI's judgment process must be recorded"
+displayName: "AI's decision-making process must be recorded"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HBS_PREV_DECISION_LOGGING.md
 ---
 
-# AI's judgment process must be recorded — Knowledge
+# AI's decision-making process must be recorded — Knowledge
 
 ## Core Knowledge
 - As the second of the five practice guidelines in the section on honbibaeksan prevention measures, the four items that must be recorded are the grounds of judgment, the data used, the approver, and the risks reviewed.

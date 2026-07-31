@@ -3,7 +3,7 @@ name: llm_gen_first_universal_skill
 description: Used when discriminating whether a target LLM corresponds to the general-purpose 'first LLM' supplied externally by big tech (layer 4 of the architecture diagram), and when diagnosing the limits of hallucination and security leakage that come along with the ability to generate natural sentences.
 ---
 
-# The First LLM — Skill
+# The 1st LLM — Skill
 
 ## Purpose
 Discriminate whether the target LLM corresponds to the 'first LLM', and diagnose its generation ability and limits.

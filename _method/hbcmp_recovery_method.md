@@ -1,11 +1,11 @@
 ---
 identity: HBCMP_RECOVERY
-displayName: "Recovery Mode"
+displayName: "Recovery Method"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HBCMP_RECOVERY.md
 ---
 
-# Recovery Mode — Method
+# Recovery Method — Method
 
 ## Method / Procedure
 1. Confirm whether the agent in a state of stress requiring recovery is a human or a bot.

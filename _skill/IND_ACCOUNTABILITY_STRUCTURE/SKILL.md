@@ -3,7 +3,7 @@ name: ind_accountability_structure_skill
 description: Used when calculating the rate of designating a final responsible party for AI outputs each quarter in order to fix the size of the organization's accountability gap as a single figure. Department-level designation is treated as non-designation, prior designation and retroactive after-the-fact designation are separated, and PASS is judged only after the per-department minimum and the authority sample verification are complete.
 ---
 
-# ind_accountability_structure_skill — Measuring the Accountability Structure Designation Rate
+# Accountability Structure — Measuring the Accountability Structure Designation Rate
 
 ## Purpose
 

@@ -1,11 +1,11 @@
 ---
 identity: BOT_ETHICS
-displayName: "Bot Ethics"
+displayName: "The ethics of bots"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/BOT_ETHICS.md
 ---
 
-# Bot Ethics — Method
+# The ethics of bots — Method
 
 ## Method / Procedure
 1. Collect and compare external AI ethical standards such as UNESCO, OECD, the EU AI Act, IEEE, the Korean government, and Claude's constitution.

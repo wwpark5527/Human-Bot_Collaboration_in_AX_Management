@@ -1,11 +1,11 @@
 ---
 identity: HR_AUTONOMY
-displayName: "Respect for Autonomy"
+displayName: "Autonomy"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HR_AUTONOMY.md
 ---
 
-# Respect for Autonomy — Goal
+# Autonomy — Goal
 
 The goal is to have the bot refrain from infringing upon human choice and from manipulation and deception, thereby realizing the second of the machine-understandable minimum definitions of respect for humans in organizational AX operations.
 

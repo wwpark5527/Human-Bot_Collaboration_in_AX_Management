@@ -1,11 +1,11 @@
 ---
 identity: SPIRIT_AUGMENTATION
-displayName: "Realization of Augmentation"
+displayName: "Augmentation Realization"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/SPIRIT_AUGMENTATION.md
 ---
 
-# Realization of Augmentation — Method
+# Augmentation Realization — Method
 
 ## Method / Procedure
 1. Check whether management decisions (introduction of bots/AI, organizational design) are replacement-oriented or amplification-oriented.

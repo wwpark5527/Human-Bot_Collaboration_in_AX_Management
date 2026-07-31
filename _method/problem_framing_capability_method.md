@@ -1,11 +1,11 @@
 ---
 identity: PROBLEM_FRAMING_CAPABILITY
-displayName: "Problem Framing Capability"
+displayName: "Problem-framing capability"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/PROBLEM_FRAMING_CAPABILITY.md
 ---
 
-# Problem Framing Capability — Method
+# Problem-framing capability — Method
 
 ## Method / Procedure
 1. Review the situation and list the candidate problems that could be addressed.

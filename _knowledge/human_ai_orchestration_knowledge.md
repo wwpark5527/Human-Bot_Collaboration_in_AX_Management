@@ -1,11 +1,11 @@
 ---
 identity: HUMAN_AI_ORCHESTRATION
-displayName: "Human-AI Orchestration"
+displayName: "Human-AI Orchestration (orchestration)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HUMAN_AI_ORCHESTRATION.md
 ---
 
-# Human-AI Orchestration — Knowledge
+# Human-AI Orchestration (orchestration) — Knowledge
 
 ## Core Knowledge
 - Orchestration capability is one of the additional conditions of AX organization talent (the competence of a successful leader), and the necessary conditions (survival competences) alone are not sufficient.

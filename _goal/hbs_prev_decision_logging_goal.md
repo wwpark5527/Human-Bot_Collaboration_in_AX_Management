@@ -1,11 +1,11 @@
 ---
 identity: HBS_PREV_DECISION_LOGGING
-displayName: "AI's judgment process must be recorded"
+displayName: "AI's decision-making process must be recorded"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/HBS_PREV_DECISION_LOGGING.md
 ---
 
-# AI's judgment process must be recorded — Goal
+# AI's decision-making process must be recorded — Goal
 
 The goal is to leave a complete record of the grounds, data, approver, and reviewed risks of judgments in which AI was involved, thereby preventing situations in which responsibility disappears through the absence of a record.
 

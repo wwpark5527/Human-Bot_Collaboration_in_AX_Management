@@ -1,11 +1,11 @@
 ---
 identity: BOT_ETHICS
-displayName: "Bot Ethics"
+displayName: "The ethics of bots"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/BOT_ETHICS.md
 ---
 
-# Bot Ethics — Goal
+# The ethics of bots — Goal
 
 The aim is to establish a system of ethical standards that every member of the AX organization (humans and bots) must observe, so that the process of realizing organizational AX proceeds safely and justly. The title is "bot ethics," but in reality it deals with the ethical norms of the organization as a whole.
 

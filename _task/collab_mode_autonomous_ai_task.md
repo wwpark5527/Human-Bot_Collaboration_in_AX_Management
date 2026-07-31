@@ -1,11 +1,11 @@
 ---
 identity: COLLAB_MODE_AUTONOMOUS_AI
-displayName: "Autonomous AI"
+displayName: "Autonomous AI (AI-autonomous execution)"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/COLLAB_MODE_AUTONOMOUS_AI.md
 ---
 
-# Autonomous AI — Task
+# Autonomous AI (AI-autonomous execution) — Task
 
 ## Tasks
 1. Confirm that the performing agent is AI and that human intervention (both prior approval and subsequent monitoring) is effectively absent, and identify the type as Autonomous AI.

@@ -1,11 +1,11 @@
 ---
 identity: LLM_GEN_FIRST_UNIVERSAL
-displayName: "The First LLM"
+displayName: "The 1st LLM"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/LLM_GEN_FIRST_UNIVERSAL.md
 ---
 
-# The First LLM — Knowledge
+# The 1st LLM — Knowledge
 
 ## Core Knowledge
 - The first LLM is a general-purpose LLM supplied externally by big tech, is located at layer 4 of the LLM architecture diagram, and is the object people ordinarily call an 'LLM'.

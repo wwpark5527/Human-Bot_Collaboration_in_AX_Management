@@ -1,11 +1,11 @@
 ---
 identity: LLM_GEN_THIRD_FULL_STACK
-displayName: "The Third LLM"
+displayName: "The 3rd LLM"
 runID: 20260719_164605
 derivedFromIdentity: ../_identity/LLM_GEN_THIRD_FULL_STACK.md
 ---
 
-# The Third LLM — Goal
+# The 3rd LLM — Goal
 
 The goal is for the organization not to remain at layers 1 through 4 (the level of the 'second LLM') but to set as its ultimate goal being fully in place up to layer 5 and reaching the final completion status of the 'third LLM'.
 
