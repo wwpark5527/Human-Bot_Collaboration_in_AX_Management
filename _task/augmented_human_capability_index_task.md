@@ -1,0 +1,24 @@
+---
+identity: AUGMENTED_HUMAN_CAPABILITY_INDEX
+displayName: "Augmented Human Capability Index (AHCI)"
+runID: 20260719_164605
+derivedFromIdentity: ../_identity/AUGMENTED_HUMAN_CAPABILITY_INDEX.md
+---
+
+# Augmented Human Capability Index (AHCI) — Task
+
+## Tasks
+1. Diagnose the human augmentation degree (whether the human is moving closer to AH).
+2. Diagnose the bot cooperation degree (whether the bot is moving closer to BH).
+3. Diagnose the human-bot alignment degree (whether human and bot are aligning).
+4. Diagnose output fidelity (whether the results are faithful and evidence-based).
+5. Diagnose the rate of improvement (whether the relationship improves over time).
+6. Synthesize the five elements to produce AHCI and register it as the HBRM capability diagnosis result.
+
+## Deliverables
+- Evaluation records of the five diagnostic elements human augmentation degree/bot cooperation degree/human-bot alignment degree/output fidelity/rate of improvement
+- The AHCI diagnostic result
+- An HBRM-linked capability diagnosis report
+
+## Derivation
+[identity](../_identity/AUGMENTED_HUMAN_CAPABILITY_INDEX.md)

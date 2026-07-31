@@ -1,0 +1,32 @@
+---
+identity: IND_AUDIT_RECORD
+displayName: "Audit Record"
+runID: 20260719_164605
+derivedFromIdentity: ../_identity/IND_AUDIT_RECORD.md
+---
+
+# Audit Record — Knowledge
+
+## Core Knowledge
+- "Audit record" (`IND_AUDIT_RECORD`, S2C-0520) is the **eighth indicator** constituting the "12 Inclusive Transition ESG indicators" (`INCLUSIVE_TRANSITION_ESG_12_INDICATORS`, S2C-0158, class INDEX). Definition: "an indicator that looks at whether the history of AI operation is preserved in a traceable way." The criteria are "preservation rate of prompt, data, result, correction, and approval records," and the output is "the record preservation-rate figure."
+- The higher context of the 12 indicators as a whole is source line 531 — "Furthermore, AI inclusive-transition ESG must be measurable. The following indicators (provisionally called the 12 Inclusive Transition ESG indicators) are basic items for confirming whether an organization operates its AI transition responsibly." This indicator is the eighth item of that list, and **it is placed at line 543 as the first item at the point where the list, having been broken off once in the source, resumes**.
+- **The structure of this indicator's value differs from that of the preceding indicators.** The preceding seven indicators placed two different values as a pair, whereas this indicator demands one value ("record preservation rate") but that value must hold for **five kinds of record** — prompt, data, result, correction, approval. That is, it is not a pair but five branches.
+- **The five must not be combined into one average.** This is the core trap of this indicator. Even if prompt, data, and result are each preserved at 100% and correction and approval at 0%, the simple average becomes 60% and looks good. But if there are no correction and approval records, one cannot confirm who changed what and what was approved, so an audit does not hold. Therefore the per-kind preservation rate must be calculated separately, and the **per-kind minimum** must be presented alongside. The value closest to the organization's actual level of traceability is not the average but the minimum.
+- **'In a traceable way' is a requirement separate from preservation.** The definition wrote not simply "whether it is preserved" but "whether it is preserved **in a traceable way**." Even if the five kinds each remain somewhere, if they are not connected to one another, one cannot trace back which prompt and data a particular output came from and whose approval it passed through. Therefore, separately from the preservation-rate figures, a check is needed in which a sample is drawn and one actually connects a single output through to its prompt, data, correction, and approval. Even if the preservation rate is high, if the connections are broken it is not the state this indicator demands.
+- **It must be strictly distinguished from the execution step whose name coincides completely.** The seventh step of the 9-step ESG execution structure is "7. Audit record" (line 526, `STEP_AUDIT_RECORD`, WalkOrder 356), and its execution content is "preserving the history of prompts, data, results, corrections, and approvals". The Korean concept name of that step is **exactly the same "audit record"** as this indicator, and the five items it enumerates are the same as well. Across this whole arrangement, this is the pair in which a step and an indicator stand closest together. But the wording of the source text divides the layers — the step is "**preserving** the history" (performing the act of preservation), while the indicator is "record preservation **rate**" (the ratio measuring how far preservation was achieved). That is, step 7 is the execution that leaves records, and this indicator is the measurement that counts how far that execution was carried out. This identity does not take "preserves" as its own procedure and performs only "calculates how much has been preserved".
+- **There is no corresponding item in the rights layer.** No right corresponding to audit records is enumerated in the 8 rights (lines 487-494), so this indicator has no name clash with the rights layer.
+- **Other indicators depend on this indicator.** The "number of missing approvals" of the human right of judgment indicator (`IND_HUMAN_JUDGMENT_RIGHT`, WalkOrder 363) can be detected only if approval records are preserved, and the review of the right to appeal indicator (`IND_APPEAL_RIGHT`, WalkOrder 365) is possible only if results and data remain. Therefore, if the approval-record preservation rate of this indicator is low, the low number of omissions in the preceding indicators must be read not as the result of good control but as the result of detection being impossible. Within the set of 12 indicators, this indicator corresponds to the foundation that upholds the measurability of the other indicators.
+- In the Stage-1 structure, S1C-183 was classified as class **INDEX** (a value transferred as is from the Stage-1 C0 row), and in Stage-2 it was SPLIT and divided into individual indicator fragments. This candidate is the **eighth fragment** of that.
+- **Note the placement of the source list — this item is the point of resumption after the interruption.** The list of 12 indicators is not continuous. The indicators run at lines 533-539 and then break off, line 540 is a blank line, **line 541 is a paragraph unrelated to the indicators mentioning the EU AI Act, UNESCO, and OECD standards**, line 542 is a blank line, and the indicators **resume from line 543**. This identity is precisely the first item at that point of resumption. Therefore there is a gap of 4 lines between the preceding item (right to appeal, line 539) and this item (line 543), but this is the arrangement of the source itself and not a quotation error. The knowledge-chain order (SequenceOrder) runs continuously from 462 to 463 regardless of this break.
+
+## Source Evidence Quotation
+> "Furthermore, AI inclusive-transition ESG must be measurable. The following indicators (provisionally called the 12 Inclusive Transition ESG indicators) are basic items for confirming whether an organization operates its AI transition responsibly."
+
+> "Audit record: preservation rate of prompt, data, result, correction, and approval records"
+
+> "7. Audit record / Preserving the history of prompts, data, results, corrections, and approvals / G"
+
+Source: `_input/_document/08_4부_8장_포용전환_AX와_ESG_확장.md` lines 531-548 (the item in question 543), 526
+
+## Derivation
+[identity](../_identity/IND_AUDIT_RECORD.md)
